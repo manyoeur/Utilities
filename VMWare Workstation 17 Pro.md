@@ -1,4 +1,4 @@
-* Get VMWare workstation 17 Pro [Here] (https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+* Get VMWare workstation 17 Pro [Here](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 * Serial keys
   * ZF3R0-FHED2-M80TY-8QYGC-NPKYF
   * YF390-0HF8P-M81RQ-2DXQE-M2UT6
