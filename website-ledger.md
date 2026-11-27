@@ -2,4 +2,4 @@
 [ninite.com](https://ninite.com/)
 
 ### ✅ pwn
-[pwn](https://pwn.college/software-exploitation/))
+[pwn](https://pwn.college/software-exploitation/)
