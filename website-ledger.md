@@ -1,5 +1,5 @@
 ### ✅ Pick the apps you want
-[inite.comt](https://ninite.com/)
+[inite.com](https://ninite.com/)
 
 ### ✅ Software Exploitation
-[pwn](https://pwn.college/software-exploitation/)
+[pwn.college](https://pwn.college/software-exploitation/)
